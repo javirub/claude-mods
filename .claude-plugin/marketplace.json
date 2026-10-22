@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Javier Rubio" },
+  "metadata": { "description": "Small mods that change how Claude Code looks and behaves in the terminal" },
+  "plugins": [
+    {
+      "name": "link-footer",
+      "source": "./plugins/link-footer",
+      "description": "Lists the URLs of each assistant reply under it as OSC 8 hyperlinks, clickable even when the terminal wraps them"
+    }
+  ]
+}

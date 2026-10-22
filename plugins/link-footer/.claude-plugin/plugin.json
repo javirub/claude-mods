@@ -1,0 +1,7 @@
+{
+  "name": "link-footer",
+  "version": "0.1.0",
+  "description": "Lists the URLs of each assistant reply under it as OSC 8 hyperlinks, clickable even when the terminal wraps them",
+  "author": { "name": "Javier Rubio", "url": "https://github.com/javirub" },
+  "license": "MIT"
+}

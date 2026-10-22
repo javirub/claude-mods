@@ -1,6 +1,6 @@
 {
   "name": "claude-mods",
-  "owner": { "name": "Javier Rubio" },
+  "owner": { "name": "Javier Rubio", "url": "https://github.com/javirub" },
   "metadata": { "description": "Small mods that change how Claude Code looks and behaves in the terminal" },
   "plugins": [
     {
